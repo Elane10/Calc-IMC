@@ -14,7 +14,7 @@ Este projeto é uma calculadora de IMC (Índice de Massa Corporal), desenvolvida
 ## 📸 Capturas de Tela
 
 ### Tela inicial
-Tela inicial (img.img1.png)
+Tela inicial (img1.png)
 
 ### Resultado do cálculo
 Resultado do IMC (img.img2.png)
