@@ -14,10 +14,10 @@ Este projeto é uma calculadora de IMC (Índice de Massa Corporal), desenvolvida
 ## 📸 Capturas de Tela
 
 ### Tela inicial
-Tela inicial (./assets/tela-inicial.png)
+Tela inicial (./img.img1.png)
 
 ### Resultado do cálculo
-Resultado do IMC (./assets/resultado.png)
+Resultado do IMC (./img.img2.png)
 
 
 ## 🛠️ Tecnologias utilizadas
