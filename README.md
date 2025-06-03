@@ -10,14 +10,14 @@ Este projeto é uma calculadora de IMC (Índice de Massa Corporal), desenvolvida
 - Tabela de referência das classificações do IMC.
 - Botões para limpar os campos ou voltar para novo cálculo.
 
-
 ## 📸 Capturas de Tela
 
-### Tela inicial
-Tela inicial (img1.png)
+### Tela Inicial
+![Tela Inicial](./img/tela-inicial.png)
 
-### Resultado do cálculo
-Resultado do IMC (img.img2.png)
+### Resultado do Cálculo
+![Resultado do IMC](./img/resultado.png)
+
 
 
 ## 🛠️ Tecnologias utilizadas
